@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="button_start">START</string>
+    <string name="button_stop">STOP</string>
+    <string name="button_converter_miles"> miles/h</string>
+    <string name="button_converter_km">km/h</string>
+    <string name="miles">miles</string>
+    <string name="miles_h">miles/h</string>
+    <string name="kilometers">kilometers</string>
+    <string name="speedlimiter">Speedlimiter</string>
+    <string name="submit">Submit</string>
+    <string name="value_in_km">km/h</string>
+    <string name="database">Database</string>
+    <string name="map">Google Map</string>
+    <string name="message">You can see on google maps where you have exceeded the speedlimit you have set!!</string>
+    <string name="title">Usage of Google Maps</string>
+    <string name="intent_message">Say map so you can see where you have exceeded your speed limit!</string>
+    <string name="location_toast">You have to give access to location in order to speedometer work!!</string>
+    <string name="speedlimit_saved">Your speedlimit saved!</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="speed">Speed:</string>
+    <string name="time">Time:</string>
+    <string-array name="planets_array">
+        <item>All time</item>
+        <item>Last hour</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
