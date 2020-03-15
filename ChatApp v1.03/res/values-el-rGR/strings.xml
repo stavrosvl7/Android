@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="Logout">Αποσύνδεση</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="chats">Συνομιλίες</string>
+    <string name="contacts">Επαφές</string>
+    <string name="SuccessfulLogin">Επιτυχής σύνδεση</string>
+    <string name="UsernameAdded">Προστέθηκε ψευδόνυμο</string>
+    <string name="SuccessfulSignUp">Επιτιχής εγγραφή</string>
+    <string name="signΙnΤoΥourΑccount">Συνδεθείτε στο λογαριασμό σας</string>
+    <string name="email">Ηλεκτρονικό ταχυδρομείο</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="login">Είσοδος</string>
+    <string name="createΑΝewΑccount">Δημιουργήστε καινούριο λογαριασμό</string>
+    <string name="username">Ψευδόνυμο</string>
+    <string name="register">Εγγραφή</string>
+    <string name="welcomeToChatapp">Καλως ήρθατε στο ChatApp</string>
+    <string name="welcomeString">Καλώς όρισες</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="location">Τοποθεσία</string>
+    <string name="typeAMessage">Πληκτρολογήστε ενα μήνυμα..</string>
+</resources>

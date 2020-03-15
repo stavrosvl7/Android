@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.unipi.stavrosvl7.ChatApp.Fragments.SettingsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/settingsLogoutButton"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/Logout" />
+
+    <Button
+        android:id="@+id/settingsLocationButton"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="90dp"
+        android:text="@string/location" />
+
+</FrameLayout>

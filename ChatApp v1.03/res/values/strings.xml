@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="Logout">Logout</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="chats">Chats</string>
+    <string name="contacts">Contacts</string>
+    <string name="settings">Settings</string>
+    <string name="SuccessfulLogin">Successfull login!</string>
+    <string name="UsernameAdded">Username added!</string>
+    <string name="SuccessfulSignUp">Successfull sign up!</string>
+    <string name="signΙnΤoΥourΑccount">Sign in to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="createΑΝewΑccount">Create a new account</string>
+    <string name="username">Username</string>
+    <string name="register">register</string>
+    <string name="location">Location</string>
+    <string name="welcomeToChatapp">Welcome to ChatApp</string>
+    <string name="welcomeString">Welcome</string>
+    <string name="typeAMessage">Type a message..</string>
+
+</resources>
