@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Calculator</string>
-    <string-array name="planets_array">
-        <item>All time</item>
-        <item>Last hour</item>
-    </string-array>
-</resources>
